@@ -1,0 +1,80 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(255, 221, 180);
+}
+
+#banner {
+    text-align: center;
+    width: 600px;
+    margin: auto;
+}
+
+#logo {
+    width: 300px;
+}
+
+#banner > p > a {
+    color: rgb(184, 165, 142);
+    text-decoration: none;
+}
+
+hr {
+    color: rgb(252, 200, 136);
+    border-color: rgb(252, 200, 136);
+    width: 600px;
+}
+
+#conteudoPrincipal {
+    text-align: center;
+    width: 80vw;
+    max-width: 800px;
+    margin: auto;
+}
+
+img {
+    width: 100%;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+#descricao {
+    background-color: rgb(253, 156, 38);
+    text-align: center;
+    padding: 20px;
+    width: 80vw;
+    max-width: 800px;
+    margin: auto;
+}
+
+#descricao h2 {
+    font-size: 30px;
+}
+
+#descricao h3 {
+    color: bisque;
+    font-size: 33px;
+}
+
+#descricao p {
+    font-size: 18px;
+    text-align: center;
+}
+
+#descricao img {
+    width: 100%;
+}
+
+#contato {
+    text-align: center;
+}
+
+#contato a {
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+
+#contato span {
+    font-weight: 700;
+}
